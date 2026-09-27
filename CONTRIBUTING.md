@@ -2,6 +2,8 @@
 
 Help keep this security material precise, useful, and safe. This is a documentation-only sample, not a vulnerability database or a record of completed security reviews.
 
+By contributing, you agree to license your contributions to this repository under its [MIT License](./LICENSE). Only contribute work you have the right to license; this does not license the KUNEE application or its trademarks.
+
 ## Contribution principles
 
 - Use clear, measured language. Do not claim an audit, certification, fix, or security guarantee without verifiable authorization.
