@@ -24,3 +24,5 @@ Any contract activity mentioned by project materials is **operator-only testing*
 - [Security](https://github.com/kuneeapp/kunee-security)
 - [Privacy lab](https://github.com/kuneeapp/kunee-privacy-lab)
 - [Contracts](https://github.com/kuneeapp/kunee-contracts)
+
+[Documentation preview release](https://github.com/kuneeapp/kunee-security/releases/tag/v0.1.0-preview) · Not a production software release.
